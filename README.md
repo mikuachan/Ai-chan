@@ -122,13 +122,13 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & LalaBotzMD]
+[ INSTALLING NODEJS & Ai-Chan BOT]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Yanz5008/LalaBotzMD
+git clone https://github.com/mikuachan/Ai-chan
 cd LalaBotzMD
 npm install
 npm update
@@ -145,7 +145,7 @@ npm update
 
 ```bash
 git clone https://github.com/mikuachan/Ai-chan
-cd LalaBotzMD
+cd 'Zero Two2'
 npm install
 npm update
 ```
