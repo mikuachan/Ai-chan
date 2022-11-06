@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
- <a href="#"><img title="LalaBOT" src="https://img.shields.io/badge/Lala BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Zero-Two" src="https://img.shields.io/badge/Lala BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Yanz5008"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Ryan-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mikuachan"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Ryan-blue.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
@@ -27,51 +27,51 @@
 
 ## ```Whatsapp``` <a href="https://wa.me/6289691215848"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![WhatsApp BOT](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/12139325680) 
-[![WgatsApp ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/12139325680) 
+[![WgatsApp ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289691215848) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IGJA0RFiJDHKYvuuoq7A4E) 
 ---------
 
 #### KELEBIHAN 🪄
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/yanz5008) |
-| **No Internet** |[✔️](https://github.com/yanz5008) |
-| **Simple** |[✔️](https://github.com/yanz5008) |
-| **Button template** |[✔️](https://github.com/yanz5008) |
-| **Multi Device** |[✔️](https://github.com/yanz5008) |
+| **Fast Respon** |[✔️](https://github.com/mikuachan) |
+| **No Internet** |[✔️](https://github.com/mikuachan) |
+| **Simple** |[✔️](https://github.com/mikuachan) |
+| **Button template** |[✔️](https://github.com/mikuachan) |
+| **Multi Device** |[✔️](https://github.com/mikuachan) |
 ---------
 #### FITUR 🎀
 | Fitur | Check |
 |--------|--------|
-| **Sticker** |[✔️](https://github.com/yanz5008) |
-| **Group** |[✔️](https://github.com/yanz5008) |
-| **Download** |[✔️](https://github.com/yanz5008) |
-| **Internet** |[✔️](https://github.com/yanz5008) |
-| **Game** |[✔️](https://github.com/yanz5008) |
-| **Game Rpg** |[✔️](https://github.com/yanz5008) |
-| **Fun** |[✔️](https://github.com/yanz5008) |
-| **Quotes** |[✔️](https://github.com/yanz5008) |
-| **Tools** |[✔️](https://github.com/yanz5008) |
-| **Anime** |[✔️](https://github.com/yanz5008) |
-| **Nsfw 18+** |[✔️](https://github.com/yanz5008) |
-| **Nulis & logo** |[✔️](https://github.com/yanz5008) |
-| **Anonymous** |[✔️](https://github.com/yanz5008) |
-| **Al Quran** |[✔️](https://github.com/yanz5008) |
-| **Exp & Limit** |[✔️](https://github.com/yanz5008) |
-| **Info** |[✔️](https://github.com/yanz5008) |
-| **Owner** |[✔️](https://github.com/yanz5008) |
-| **Bug & Virus** |[✔️](https://github.com/yanz5008) |
+| **Sticker** |[✔️](https://github.com/mikuachan) |
+| **Group** |[✔️](https://github.com/mikuachan) |
+| **Download** |[✔️](https://github.com/mikuachan) |
+| **Internet** |[✔️](https://github.com/mikuachan) |
+| **Game** |[✔️](https://github.com/mikuachan) |
+| **Game Rpg** |[✔️](https://github.com/mikuachan) |
+| **Fun** |[✔️](https://github.com/mikuachan) |
+| **Quotes** |[✔️](https://github.com/mikuachan) |
+| **Tools** |[✔️](https://github.com/mikuchan) |
+| **Anime** |[✔️](https://github.com/mikuachan) |
+| **Nsfw 18+** |[✔️](https://github.com/mikuachan) |
+| **Nulis & logo** |[✔️](https://github.com/mikuachan) |
+| **Anonymous** |[✔️](https://github.com/mikuachan) |
+| **Al Quran** |[✔️](https://github.com/mikuachan) |
+| **Exp & Limit** |[✔️](https://github.com/mikuachan) |
+| **Info** |[✔️](https://github.com/mikuachan) |
+| **Owner** |[✔️](https://github.com/mikuachan) |
+| **Bug & Virus** |[✔️](https://github.com/mikuachan) |
 ---------
 
 ## `SETTING`
 
-- Owner Number [here](https://github.com/yanz5008/LalaBotzMD/blob/master/config.js#L1)
-- Owner Name [here](https://github.com/yanz5008/LalaBotzMD-multidevice/blob/master/config.js#L1)
-- Bot Name [here](https://github.com/yanz5008/LalaBotzMD/blob/master/config.js#L1)
+- Owner Number [here](https://github.com/mikuachan/Ai-chanblob/master/config.js#L1)
+- Owner Name [here](https://github.com/mikuachan/Ai-chan-multidevice/blob/master/config.js#L1)
+- Bot Name [here](https://github.com/mikuachan/Ai-chan/blob/master/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yanz5008/LalaBotzMD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mikuachan/Ai-chan)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -85,8 +85,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/yanz5008/LalaBotzMD5.git
-$ cd LaLaBotzMD5
+$ git clone https://github.com/mikuachan/Ai-chan.git
+$ cd 'Zero Two2'
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -144,7 +144,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Yanz5008/LalaBotzMD
+git clone https://github.com/mikuachan/Ai-chan
 cd LalaBotzMD
 npm install
 npm update
@@ -250,12 +250,12 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`Rasel Comel`](https://github.com/raselcomel)
 * [`Rominaru`](https://github.com/rominaru)
 * [`Fahri Adison`](https://github.com/FahriAdison) 
-* [`My parents`](https://github.com/yanz5008)
-* [`All Friends`](https://github.com/yanz5008)
-* [`All Contributors`](https://github.com/yanz5008)
-* [`All Creator Bot`](https://github.com/yanz5008)
+* [`My parents`](https://github.com/mikuachan)
+* [`All Friends`](https://github.com/mikuachan)
+* [`All Contributors`](https://github.com/mikuachan)
+* [`All Creator Bot`](https://github.com/mikuachan)
  
 
 ## ```Recode By ✏️```
-[![Zen](https://github.com/Bl4ck-lion.png?size=70)](https://github.com/yanz5008)
+[![Zen](https://github.com/Bl4ck-lion.png?size=70)](https://github.com/mikuachan)
 
