@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/0f010ab9524f257994109.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://i.ibb.co/QN9HR2L/unlucky-desktop-O.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Ai-Chan BOT</h1>
 <p align="center">
